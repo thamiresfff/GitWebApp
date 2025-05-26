@@ -4,4 +4,4 @@ Repositório da turma de GCMS do IFPE-Recife, 2025.1!
 ## Colaboradores
 Coloque seu nome abaixo se você é um dos colaboradores do repositório:
 * Ramide Augusto Sales Dantas (@ramidedantas, dono)
-
+* Tássio Tristão @tvts1
