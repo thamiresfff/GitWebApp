@@ -7,3 +7,4 @@ Coloque seu nome abaixo se você é um dos colaboradores do repositório:
 * Tássio Tristão @tvts1
 * Jorge Luís Torres @jorgetorresjr
 * Mádan Ferreira Manoel @madan-ferreira
+* Isabelly Gabriela Cavalcanti Bernardes @isabellybernardes
