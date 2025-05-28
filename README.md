@@ -8,3 +8,4 @@ Coloque seu nome abaixo se você é um dos colaboradores do repositório:
 * Jorge Luís Torres @jorgetorresjr
 * Mádan Ferreira Manoel @madan-ferreira
 * Isabelly Gabriela Cavalcanti Bernardes @isabellybernardes
+* Clara Alves Bezerra Moura @claraabmoura
