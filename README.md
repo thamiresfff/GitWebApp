@@ -9,4 +9,4 @@ Coloque seu nome abaixo se você é um dos colaboradores do repositório:
 * Mádan Ferreira Manoel @madan-ferreira
 * Isabelly Gabriela Cavalcanti Bernardes @isabellybernardes
 * Clara Alves Bezerra Moura @claraabmoura
-* Nathália de Lima Santos @nathalialimaa
+* Nathália de Lima Santos (@nathalialimaa)
