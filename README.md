@@ -12,3 +12,4 @@ Coloque seu nome abaixo se você é um dos colaboradores do repositório:
 * Nathália de Lima Santos (@nathalialimaa)
 * Anderson Paixão da Silva (@Andersonps27)
 * Tamires Grazieli de Souza Nascimento (@TamiresGSN)
+* Thamires Fernanda França Fernandes(@Thamiresfff)
