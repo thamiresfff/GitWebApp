@@ -17,3 +17,4 @@ Coloque seu nome abaixo se você é um dos colaboradores do repositório:
 * Thayna Santos (@tainasays)
 * Elaine Chagas (@Elaine-Chagas)
 * José Ruan (@joseeruan)
+* Rodrigo Rocha (@rodrigosr82)
