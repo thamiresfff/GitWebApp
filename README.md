@@ -16,3 +16,4 @@ Coloque seu nome abaixo se você é um dos colaboradores do repositório:
 * Maria Helena da Silva (@HelenaSilva0)
 * Thayna Santos (@tainasays)
 * Elaine Chagas (@Elaine-Chagas)
+* José Ruan (@joseeruan)
