@@ -15,3 +15,4 @@ Coloque seu nome abaixo se você é um dos colaboradores do repositório:
 * Thamires Fernanda França Fernandes(@Thamiresfff)
 * Maria Helena da Silva (@HelenaSilva0)
 * Thayna Santos (@tainasays)
+* Elaine Chagas (@Elaine-Chagas)
