@@ -19,3 +19,4 @@ Coloque seu nome abaixo se você é um dos colaboradores do repositório:
 * José Ruan (@joseeruan)
 * Rodrigo Rocha (@rodrigosr82)
 * Ednaldo Florenço (@EdnaldoBarbo)
+* Túlio Bernardino (@t-bernardino)
