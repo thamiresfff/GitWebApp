@@ -41,4 +41,10 @@ public class HomeController {
   public @ResponseBody String greetingRamideBranch() {
     return "Hello, Branch!";
   }
+
+  @RequestMapping("/isabellybernardes")
+  public @ResponseBody String greetingIsabelly() {
+    return "Hello, Isabelly!?!?";
+  }
+
 }  
