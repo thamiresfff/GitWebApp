@@ -59,8 +59,7 @@ public class HomeController {
 
   @RequestMapping("/ednaldobarbosa")
   public @ResponseBody String greetingEdnaldo() {return "Hello, Ednaldo!?!?";}
-  
-  
+
   @RequestMapping("/jorge")
   public @ResponseBody String greetingJorge() {
     return "Hello, Jorge!?!?";
@@ -70,7 +69,6 @@ public class HomeController {
   public @ResponseBody String greetingMadan() {  
   return "Hello, Mádan!";  
   }
-
 
   @RequestMapping("/Thamires")
   public @ResponseBody String greetingThamires() {
@@ -83,4 +81,3 @@ public class HomeController {
   }
 
 
-}

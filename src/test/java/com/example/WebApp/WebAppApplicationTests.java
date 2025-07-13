@@ -15,26 +15,26 @@ import org.springframework.test.web.servlet.MockMvc;
  
 @SpringBootTest 
 @AutoConfigureMockMvc 
-class WebAppApplicationTests { 
- 
-  @Autowired 
-  private MockMvc mockMvc; 
- 
-  @Test 
-  public void shouldReturnDefaultMessage() throws Exception { 
-    this.mockMvc.perform(get("/")) 
-        .andDo(print()).andExpect(status().isOk()) 
-        .andExpect(content() 
-          .string(containsString("Hello, World!"))); 
+class WebAppApplicationTests {
+
+  @Autowired
+  private MockMvc mockMvc;
+
+  @Test
+  public void shouldReturnDefaultMessage() throws Exception {
+    this.mockMvc.perform(get("/"))
+            .andDo(print()).andExpect(status().isOk())
+            .andExpect(content()
+                    .string(containsString("Hello, World!")));
   }
-  
-  @Test 
-  public void shouldReturnRamide() throws Exception { 
-    this.mockMvc.perform(get("/ramide")) 
-        .andDo(print()).andExpect(status().isOk()) 
-        .andExpect(content() 
-          .string(containsString("Hello, Ramide!"))); 
-  }  
+
+  @Test
+  public void shouldReturnRamide() throws Exception {
+    this.mockMvc.perform(get("/ramide"))
+            .andDo(print()).andExpect(status().isOk())
+            .andExpect(content()
+                    .string(containsString("Hello, Ramide!")));
+  }
 
   @Test
   public void shouldReturnIsabelly() throws Exception {
@@ -52,20 +52,22 @@ class WebAppApplicationTests {
                     .string(containsString("Hello, Ednaldo!?!?")));
   }
 
-  @Test 
-  public void shouldReturnJorge() throws Exception { 
-    this.mockMvc.perform(get("/jorge")) 
-        .andDo(print()).andExpect(status().isOk()) 
-        .andExpect(content() 
-          .string(containsString("Hello, Jorge!?!?"))); 
-  } 
-  @Test 
-  public void shouldReturnMadan() throws Exception { 
-    this.mockMvc.perform(get("/madan")) 
-        .andDo(print()).andExpect(status().isOk()) 
-        .andExpect(content() 
-          .string(containsString("Hello, Mádan!"))); 
+  @Test
+  public void shouldReturnJorge() throws Exception {
+    this.mockMvc.perform(get("/jorge"))
+            .andDo(print()).andExpect(status().isOk())
+            .andExpect(content()
+                    .string(containsString("Hello, Jorge!?!?")));
   }
+
+  @Test
+  public void shouldReturnMadan() throws Exception {
+    this.mockMvc.perform(get("/madan"))
+            .andDo(print()).andExpect(status().isOk())
+            .andExpect(content()
+                    .string(containsString("Hello, Mádan!")));
+  }
+
   @Test
   public void shouldReturnThamires() throws Exception {
     this.mockMvc.perform(get("/thamires"))
@@ -73,9 +75,11 @@ class WebAppApplicationTests {
             .andExpect(content()
                     .string(containsString("Hello, thamires!")));
   }
+
   @Test
   public void testHotfixEndpoint() throws Exception {
     this.mockMvc.perform(get("/hotfix"))
             .andExpect(status().isOk())
             .andExpect(content().string("Hotfix aplicado!"));
   }
+}
