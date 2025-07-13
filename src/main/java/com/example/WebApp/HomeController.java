@@ -71,13 +71,10 @@ public class HomeController {
   return "Hello, Mádan!";  
   }
 
-  @RequestMapping("/thamires")
+
+  @RequestMapping("/Thamires")
   public @ResponseBody String greetingThamires() {
-<<<<<<< HEAD
-    return "Hello, Thamires Fernandes!";
-=======
-    return "Hello conflict, Thamires!";
->>>>>>> 02148caaef38564a0d9a4723564ee7dfbe47e8d6
+    return "Hello, Thamires!";
   }
 
-  }
+}
