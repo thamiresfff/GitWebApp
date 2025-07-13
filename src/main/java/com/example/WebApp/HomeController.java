@@ -76,5 +76,11 @@ public class HomeController {
     return "Hello, Thamires!";
   }
 
-
+  @RequestMapping("/hotfix")
+  public @ResponseBody String hotfixEndpoint() {
+    return "Hotfix aplicado!";
   }
+
+
+
+}
