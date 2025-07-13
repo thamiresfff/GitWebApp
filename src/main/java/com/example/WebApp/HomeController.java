@@ -76,6 +76,7 @@ public class HomeController {
   public @ResponseBody String greetingThamires() {
     return "Hello, Thamires!";
   }
+
   @RequestMapping("/hotfix")
   public @ResponseBody String hotfixEndpoint() {
     return "Hotfix aplicado!";
